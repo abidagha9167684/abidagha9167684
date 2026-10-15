@@ -1,6 +1,6 @@
 # Hi, I'm Abid Agha 👋
 
-Master's graduate in **Internet of Things and Intelligent Systems** (FH Technikum Wien, Vienna). I build and automate Linux, cloud and IoT infrastructure, and I like documenting it so others can reproduce it.
+Master of Science in Engineering, **Internet of Things and Intelligent Systems** (FH Technikum Wien). I build and automate Linux, cloud and IoT infrastructure, and I like documenting it so others can reproduce it.
 
 ## Projects
 
@@ -23,9 +23,3 @@ Master's graduate in **Internet of Things and Intelligent Systems** (FH Techniku
 - **Windows and databases:** Windows Server, Active Directory, DNS, SQL Server (RBAC, auditing, backup and recovery), PowerShell
 - **IoT:** MQTT, ESP32, openHAB, Unreal Engine 5
 - **Practices:** Git and GitHub, CI/CD, technical documentation, troubleshooting
-
-## Languages
-English · Urdu / Hindi · German (add or adjust as needed)
-
----
-Based in Vienna, Austria. Feel free to open an issue or reach out through my GitHub profile.
