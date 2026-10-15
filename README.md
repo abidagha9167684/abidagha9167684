@@ -2,6 +2,8 @@
 
 Master of Science in Engineering, **Internet of Things and Intelligent Systems** (FH Technikum Wien). I build and automate Linux, cloud and IoT infrastructure, and I like documenting it so others can reproduce it.
 
+📍 Vienna, Austria · 🗣️ English, German · 💼 Open to Linux, cloud, DevOps and IoT engineering roles across Europe · 🔗 [LinkedIn](https://www.linkedin.com/in/abidullah-agha-146aa4433)
+
 ## Projects
 
 | Project | What it is | Main tech |
